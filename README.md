@@ -4,9 +4,9 @@ Adeethyia Shankar's EXE Library
 Adeethyia Shankar's EXE Library is a program which is written in C++ using the Win32 API.
 
 
-Included are:
+Included in the download (https://onedrive.live.com/download?cid=8A02153F2FAC9D94&resid=8A02153F2FAC9D94%211050&authkey=AJlhwOQkPeJpkoo) are:
 
-Message Box Wizard, to create native Windows message boxes.
+Message Box Wizard (built into Adeethyia Shankar's EXE Library), to create native Windows message boxes.
 
 Caesar Cipher, to encrypt a message of any length to any letter shift and any spacing
 
