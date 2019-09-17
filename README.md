@@ -1,5 +1,5 @@
 # Adeethyia-Shankar-EXE-Library
-Adeethyia Shankar's EXE Library
+Adeethyia Shankar's EXE Library for Windows XP to Windows 10
 
 Adeethyia Shankar's EXE Library is a program which is written in C++ using the Win32 API.
 
